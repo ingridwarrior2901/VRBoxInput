@@ -1,3 +1,6 @@
+
+![VRBox Image](https://github.com/ingridwarrior2901/VRBoxInput/blob/master/Assets/VRBoxBluetoothControl/vrbox.jpg?raw=true)
+
 # VRBoxInput
 iOS Plugin for Unity to capture VRBox control inputs
 
