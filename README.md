@@ -3,7 +3,7 @@ iOS Plugin for Unity to capture VRBox control inputs
 
 
 # The following steps show how to setup this asset:
-1. Make sure that you platform is iOS
+1. Make sure that you are using iOS platform in Unity 
 2. Move the `Plugins` folder into the assets root.
 3. You must have had an Xcode project created, if not, Start a new build and Unity will create a new Xcode project.
 4. Open your Xcode project and go to the build settings
